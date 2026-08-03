@@ -29,7 +29,7 @@ As soluções são organizadas em diretórios categorizados pelo nível de dific
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/lxzinxs/leetcode-java-solutions.git
+   git clone https://github.com/lxzinxs/leetcode
    ```
 
 2. **Abrir o Projeto:**
